@@ -1,4 +1,4 @@
-# Experimentations over U-Net in terms of Input
+# Experimentations over U-Net in terms of Processing Input
 
 
 I perform experimentations over application of different image processing operations on inputs to U-Net to observe variation in performance. Also, for inlusion of different operations as different modalities, I perform small variation in architecture of U-Net with basic binary crossentropy loss.
