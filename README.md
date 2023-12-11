@@ -1,7 +1,7 @@
 # Experimentations over U-Net in terms of Input
 
 
-I perform experimentations over application of different image processing operations on inputs to U-Net to observe variation in performance. Also, for inlusion of different operations as different modalities, I perform small variation in architecture of U-Net.
+I perform experimentations over application of different image processing operations on inputs to U-Net to observe variation in performance. Also, for inlusion of different operations as different modalities, I perform small variation in architecture of U-Net with basic binary crossentropy loss.
 
 ![image](https://github.com/dianujizer/experiment_over_unet/assets/47445756/08aaaf48-aca7-4cf0-95a6-e994bf678429)
 
